@@ -6,8 +6,12 @@ How To Start
 
 ```
 pip install -r requirements.txt
+python3 app.py
 npm install            //推荐使用cnpm
+vue ui                //使用的vue版本是3.0以上
 ```
+
+### 项目是课设10天做完的，能力有限 可能会有bug。
 
 # 目前已完善功能
 ## 管理员模块
